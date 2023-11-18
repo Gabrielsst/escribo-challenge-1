@@ -17,6 +17,7 @@ Instruções:
 - Escreva um README no seu repositório com as instruções de como rodar o seu projeto e como
 podemos testá-lo.
 
+Implementação do desafio em formato de código:
 - O código se encontra implementado neste repositório.
 
 # Instruções de como testar o projeto
